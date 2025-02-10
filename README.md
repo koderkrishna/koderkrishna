@@ -13,7 +13,7 @@ I'm a passionate Data Science enthusiast transitioning from Non-tech into the wo
 - Programming Languages:
 <p>
     <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="100">
-    ![SQL](https://img.shields.io/badge/SQL-Expert-green)
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="100">
 </p>
 - Libraries:
   <p>
